@@ -3,7 +3,5 @@ scikit-learn
 pandas
 numpy
 joblib
-xgboost
-nltk
-
-
+matplotlib
+wordcloud
